@@ -40,3 +40,7 @@ How to Install and Run the Project?
 
 We have to download and install python and some of pythons libraries like OpenCV, Face_recognition, numpy  and streamlit.
 The code can easily be run in Visual Studios. Before running it, we have to type “streamlit run face.py” in the terminal. It will give us the local URL where our application will open. 
+
+How to Use the Project
+
+We can use these types of projects in the security areas as well as in educational areas. We can have a more advanced version of this application on airports to look at security. 
