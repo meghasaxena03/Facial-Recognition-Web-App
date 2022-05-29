@@ -25,7 +25,9 @@ Your faceprint is then compared against a database of other known faces. For exa
 Of all the biometric measurements, facial recognition is considered the most natural. Intuitively, this makes sense, since we typically recognize ourselves and others by looking at faces, rather than thumbprints and irises. It is estimated that over half of the world's population is touched by facial recognition technology regularly.
 
 Methodology
+
 The project works using python library for face recognition and streamlit for the frontend. The application has some images given to the database (which is the images folder). These images are first converted to black and white and then comparison is made. When we show the camera our image, it will identify it according to the image saved in the database and give us the name associated with that image.
-How to Install and Run the Project
+How to Install and Run the Project?
+
 We have to download and install python and some of pythons libraries like OpenCV, Face_recognition, numpy  and streamlit.
 The code can easily be run in Visual Studios. Before running it, we have to type “streamlit run face.py” in the terminal. It will give us the local URL where our application will open. 
